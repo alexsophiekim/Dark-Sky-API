@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/19WDWU02/Dark-Sky-API/issues"
   },
-  "homepage": "https://github.com/19WDWU02/Dark-Sky-API#readme"
+  "homepage": "https://github.com/19WDWU02/Dark-Sky-API#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
