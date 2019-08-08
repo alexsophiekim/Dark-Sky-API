@@ -23,4 +23,4 @@ An example file has been given which you can also duplicate.
 ## Task 
 You are to utilize the Dark Sky API, as well as the [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial) to create an application which you can search for a location using Google's autocomplete function, to be able to tell you what the weather is like in that location.  
 
-You don't need to create a 'pretty' front-end interface for it at this stage, but rather just have a heading which tells you the location you are seraching for, as well as the current weather is for that place.
+You don't need to create a 'pretty' front-end interface for it at this stage, but rather just have a heading which tells you the location you are searching for, as well as the current weather is for that place.
