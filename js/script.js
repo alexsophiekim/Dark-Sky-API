@@ -1,5 +1,6 @@
 $(document).ready(function(){
   let darkSkyKey;
+  let googleMap;
 
   $.ajax({
     url: 'config.json',
@@ -26,6 +27,15 @@ $(document).ready(function(){
         console.log('error, something went wrong with the request');
       }
     })
+  }
+
+  var map;
+  function initMap(){
+
+  }
+
+  getLocationData = ()=>{
+
   }
 
 })
